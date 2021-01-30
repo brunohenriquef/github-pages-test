@@ -1,2 +1,2 @@
 # github-pages-test
- simple test of github pages
+ A simple test of github pages
